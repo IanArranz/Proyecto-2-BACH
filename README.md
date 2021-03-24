@@ -9,7 +9,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Tener cualquier bloc de notas que te permita editar HTML _
+Tener cualquier bloc de notas que te permita editar HTML
 
 ```
 Notepadd++
