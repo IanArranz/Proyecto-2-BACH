@@ -9,14 +9,15 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-```
-Tener cualquier bloc de notas que te permita editar HTML o 
-también puedes utilizar el proporcionado por la página Web de GitHub
-```
+
+Tener cualquier bloc de notas que te permita editar HTML o también puedes utilizar el proporcionado por la página Web de GitHub
+
 
 ## ¿Cómo editar el proyecto? 🎁
 
+```
 * 1️⃣ Lees el código, si ves pertinente puedes descargarlo para una mayor comodidad
 * 2️⃣ Modifícalo a tu gusto y contribuye al proyecto
 * 3️⃣ Sube tu contribución y comenta tus cambios
+```
  
