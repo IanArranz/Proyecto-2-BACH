@@ -20,4 +20,4 @@ Tener cualquier bloc de notas que te permita editar HTML o también puedes utili
 * 2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cuaquiera ayuda es útil.
 * 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
- 
+ ⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie este editándolo⚠️
