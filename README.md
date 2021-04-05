@@ -13,7 +13,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 Tener cualquier bloc de notas que te permita editar HTML o también puedes utilizar el proporcionado por la página Web de GitHub
 
 
-## ¿Cómo editar el proyecto? 🎁
+## ¿Cómo editar el proyecto? 
 
 ```
 * 1️⃣ Lees el código, si ves pertinente puedes descargarlo para una mayor comodidad.
