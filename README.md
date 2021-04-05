@@ -18,6 +18,6 @@ Tener cualquier bloc de notas que te permita editar HTML o también puedes utili
 ```
 * 1️⃣ Lees el código, si ves pertinente puedes descargarlo para una mayor comodidad.
 * 2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cuaquiera ayuda es útil.
-* 3️⃣ Sube tu contribución a esta  y comenta tus cambios
+* 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
  
