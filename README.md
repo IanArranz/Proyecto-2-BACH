@@ -20,4 +20,6 @@ _Tener cualquier bloc de notas que te permita editar HTML o también puedes util
 * 2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cualquier ayuda es útil.
 * 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
+ Si quieres puedes utilizar la plantilla.html para hacer tu página WEB
+ 
  ⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie este editándolo⚠️
