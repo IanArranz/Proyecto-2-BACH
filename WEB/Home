@@ -71,8 +71,8 @@
 	<div id="menu">
 		<ul>
 			<li><a href="home.html">Home</a></li>
-			<li><a href="1.html">Acerca</a></li>
-			<li><a href="#">Servicios</a></li>
+			<li><a href="HTML">Html</a></li>
+			<li><a href="PSeint">PSeint</a></li>
 			<li class="item-r"><a href="#">Contacto</a></li>
 		</ul>
 	</div>
