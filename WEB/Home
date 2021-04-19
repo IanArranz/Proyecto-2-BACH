@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Barra de navegación</title>
+	<title>WEB: 2ºBACH</title>
 
 	<style>
-		body{background-color: #4642B8;padding: 150px;font-family: Arial;}
+		body{background-color: #0FDFC9;padding: 150px;font-family: Arial;}
 		
 		#menu{
 			background-color: #000;
@@ -36,16 +36,57 @@
 		.item-r{
 			float: right;
 		}
+		img{
+		    display: block;
+			margin: auto;
+			padding: auto;
+		}
+		h1{
+			padding: auto;
+			margin: 40;
+			text-align: center;
+			font-size: 50pt;
+			text-decoration: underline;
+		}
+		.section {
+			background-color: #fff;
+			padding: 15px;
+			margin-bottom: 10px;
+			border-radius: 10px;
+		}	
+		.copyright {
+			font-size: 8pt;
+			text-align: right;
+			padding-bottom: 10px;
+			color: black;
+		}
 	</style>
 </head>
 <body>
+	<div>
+		<img class="img" src="ies.png">
+	</div>
 	<div id="menu">
 		<ul>
 			<li><a href="home.html">Home</a></li>
-			<li><a href=".html">Acerca</a></li>
+			<li><a href="1.html">Acerca</a></li>
 			<li><a href="#">Servicios</a></li>
 			<li class="item-r"><a href="#">Contacto</a></li>
 		</ul>
 	</div>
+	<h1> Inicio </h1>
+	<div class=section>
+		<p><center> Bienvenido a una página Web diseñada por los Alumnos del IES San Bartolomé como trabajo de final de curso de 2ºBACH<p/>
+		<p> En esta página vas a encontrar diferentes temas relacionados con lo que hemos dado durante este curso 2020/2021, desde programación hasta técnicas de seguridad. Pondremos en práctica nuestros concimientos en programación para realizar este trabajo</p>
+	</div>
+	<div class=section>
+	<img class=img src="https://blog.educacionit.com/wp-content/uploads/2018/09/shutterstock-10338536170938-620x354-01-750x410.jpg">
+	</div>
+	<div class="copyright">
+            &copy; 2021 IES San Bartolome. All rights reserved.
+    </div>
+	<div class="copyright">
+            &copy; 2021 BLOG TIC. All rights reserved.
+    </div>
 </body>
 </html>
