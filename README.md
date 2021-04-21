@@ -16,9 +16,9 @@ _Tener cualquier bloc de notas que te permita editar HTML o también puedes util
 ## ¿Cómo editar el proyecto? 🚩
 
 ```
-* 1️⃣ Lees el código, si ves pertinente puedes descargarlo para una mayor comodidad.
-* 2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cualquier ayuda es útil.
-* 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
+1️⃣ Lees el código, si ves pertinente puedes descargarlo para una mayor comodidad.
+2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cualquier ayuda es útil.
+3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
  Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB
  
