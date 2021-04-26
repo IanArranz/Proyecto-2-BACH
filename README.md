@@ -22,4 +22,4 @@ _Tener cualquier bloc de notas que te permita editar HTML o también puedes util
 ```
  Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB
  
-_⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie este editándolo⚠️
+⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie este editándolo⚠️
