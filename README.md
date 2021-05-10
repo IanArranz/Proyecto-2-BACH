@@ -1,4 +1,4 @@
-# 👉PROYECTO 2ºBACH👈
+# 🔵PROYECTO 2ºBACH🔵
 
 _Proyecto creado por los Alumnos del IES San Bartolomé de la asignatura de Tecnologías de la Información y la Comunicación, con el objetivo de crear una página Web en conjunto donde todos puedan contribuir en esta._
 _Esta página WEB estará elaborada en base a los conocimientos aprendidos durante este curso 2020/2021 sobre los temas que hemos ido aprendiendo._
