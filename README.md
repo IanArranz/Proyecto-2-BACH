@@ -5,7 +5,7 @@ _Esta página WEB estará elaborada en base a los conocimientos aprendidos duran
 
 ## Comenzando 🚀
 
-_Antes de iniciar con el proceso lee los aportadas a continuación._
+_Antes de ponerte manos a la obra con el proyecto, te recomendaría que leyeras los aportadas a continuación._
 
 ### - Pre-requisitos 📋
 
