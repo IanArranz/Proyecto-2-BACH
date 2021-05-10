@@ -5,15 +5,15 @@ _Esta página WEB estará elaborada en base a los conocimientos aprendidos duran
 
 ## Comenzando 🚀
 
-_Antes de inicar con el proceso lee los aportadas a continuación._
+_Antes de iniciar con el proceso lee los aportadas a continuación._
 
 ### - Pre-requisitos 📋
 
-_Tener cualquier bloc de notas que te permita editar HTML como Notepadd++ o también puedes utilizar el proporcionado por la página Web de GitHub o SoloLearn. Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB._
+_Tener cualquier bloc de notas que te permita editar HTML como Notepad++ o también puedes utilizar el proporcionado por la página Web de GitHub o SoloLearn. Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB._
 
 ### - ¿Estás seguro? ❓
 
-_Antes de continuar y contribuir debes haber terminado el curso proporcinado en este curso 2020/2021, en el cual se han introducido temarios para conocer como elaborar una página WEB._
+_Antes de continuar y contribuir debes haber terminado el curso proporcionado en este curso 2020/2021, en el cual se han introducido temarios para conocer como elaborar una página WEB._
 
 ### - ¿Qué me falta? 🤔
 
@@ -29,4 +29,4 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
  
-⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie este editándolo⚠️
+⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie esté editando⚠️
