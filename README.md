@@ -15,6 +15,10 @@ _Tener cualquier bloc de notas que te permita editar HTML como Notepadd++ o tamb
 
 _Antes de continuar y contribuir debes haber terminado el curso proporcinado en este curso 2020/2021, en el cual se han introducido temarios para conocer como elaborar una página WEB._
 
+### ¿Qué me falta? 🤔
+
+_Antes de continuar tienes que contactar con nosotros para que te demos acceso al proyecto, es el último requisito para que tengas acceso completo a todo el proyecto y sus archivps pertinentes._
+
 ## ¿Cómo editar el proyecto? 🚩
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
