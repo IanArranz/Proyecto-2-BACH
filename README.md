@@ -17,7 +17,7 @@ _Antes de continuar y contribuir debes haber terminado el curso proporcionado en
 
 ### - ¿Qué me falta? 🤔
 
-_Antes de continuar tienes que contactar con nosotros para que te demos acceso al proyecto, es el último requisito para que tengas acceso completo a todo el proyecto y sus archivps pertinentes._
+_Antes de continuar tienes que contactar con nosotros para que te demos acceso al proyecto, es el último requisito para que tengas acceso completo a todo el proyecto y sus archivos pertinentes._
 
 ## ¿Cómo editar el proyecto? 🚩
 
