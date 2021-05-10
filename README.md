@@ -1,6 +1,7 @@
 # PROYECTO 2ºBACH
 
 _Proyecto creado por los Alumnos del IES San Bartolomé de la asignatura de Tecnologías de la Información y la Comunicación, con el objetivo de crear una página Web en conjunto donde todos puedan contribuir en esta._
+_Esta página WEB estará elaborada en base a los conocimientos aprendidos durante este curso 2020/2021 sobre los temas que hemos ido aprendiendo._
 
 ## Comenzando 🚀
 
@@ -10,16 +11,15 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos 📋
 
 
-_Tener cualquier bloc de notas que te permita editar HTML o también puedes utilizar el proporcionado por la página Web de GitHub o SoloLearn_
+_Tener cualquier bloc de notas que te permita editar HTML como Notepadd++ o también puedes utilizar el proporcionado por la página Web de GitHub o SoloLearn Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB._
 
 
 ## ¿Cómo editar el proyecto? 🚩
 
 ```
-1️⃣ Lees el código, si ves pertinente puedes descargarlo para una mayor comodidad.
+1️⃣ Leer y analizar el código, si ves pertinente puedes descargarlo para una mayor comodidad.
 2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cualquier ayuda es útil.
 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
- Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB
  
 ⚠️Recuerda que al ser un archivo compartido mucha gente puede editar el proyecto al mismo tiempo, por lo cual para que el esfuerzo de cada uno no se opaque, asegurate que nadie este editándolo⚠️
