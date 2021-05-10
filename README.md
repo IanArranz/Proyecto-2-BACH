@@ -11,7 +11,7 @@ _Antes de ponerte manos a la obra con el proyecto, te recomendaría que leyeras 
 
 _Tener cualquier bloc de notas que te permita editar HTML como Notepad++ o también puedes utilizar el proporcionado por la página Web de GitHub o SoloLearn. Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB._
 
-### - ¿Estás seguro? ❓
+### - ¿Estás preparado? ❓
 
 _Antes de continuar y contribuir debes haber terminado el curso proporcionado en este curso 2020/2021, en el cual se han introducido temarios para conocer como elaborar una página WEB._
 
