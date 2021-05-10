@@ -11,21 +11,21 @@ _Antes de inicar con el proceso lee los aportadas a continuación._
 
 _Tener cualquier bloc de notas que te permita editar HTML como Notepadd++ o también puedes utilizar el proporcionado por la página Web de GitHub o SoloLearn. Si quieres puedes utilizar la plantilla.html para hacer tu parte de la página WEB._
 
-### ¿Estás seguro? ❓
+### - ¿Estás seguro? ❓
 
 _Antes de continuar y contribuir debes haber terminado el curso proporcinado en este curso 2020/2021, en el cual se han introducido temarios para conocer como elaborar una página WEB._
 
-### ¿Qué me falta? 🤔
+### - ¿Qué me falta? 🤔
 
 _Antes de continuar tienes que contactar con nosotros para que te demos acceso al proyecto, es el último requisito para que tengas acceso completo a todo el proyecto y sus archivps pertinentes._
 
-## ¿Cómo editar el proyecto? 🚩
+## - ¿Cómo editar el proyecto? 🚩
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ```
 1️⃣ Leer y analizar el código, si ves pertinente puedes descargarlo para una mayor comodidad.
-2️⃣ Modifícalo a tu gusto y contribuye al proyecto, cualquier ayuda es útil.
+1️⃣ Modifícalo a tu gusto y contribuye al proyecto, cualquier ayuda es útil.
 3️⃣ Cuando termines de modificarlo comenta los cambios que has introducido y ya está.
 ```
  
